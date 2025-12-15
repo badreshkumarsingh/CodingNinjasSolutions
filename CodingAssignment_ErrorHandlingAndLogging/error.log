@@ -1,0 +1,5 @@
+
+{"level":"error","message":"testing app level custom error handling middleware","service":"error-logging"}
+{"level":"error","message":"undefined","service":"error-logging"}
+{"error message":"testing app level custom error handling middleware","level":"error","request URL":"/test-custom-error/","service":"error-logging","timestamp":"Sun Dec 14 2025 17:15:03 GMT+0530 (India Standard Time)"}
+{"error message":"undefined","level":"error","request URL":"/test-unhandled-error","service":"error-logging","timestamp":"Sun Dec 14 2025 17:15:08 GMT+0530 (India Standard Time)"}
