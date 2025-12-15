@@ -1,0 +1,4 @@
+
+Fri Jul 18 2025 23:53:34 GMT+0530 (India Standard Time)
+req URL: /api/user/register
+reqBody: {"name":"vivek","email":"krvivi28@gmail.com","password":"vivek28@"}
