@@ -1,0 +1,1 @@
+let myPara=document.getElementById("demo");myPara.innerHTML="DOM Manipulation is powerful.",myPara.style.color="blue";
